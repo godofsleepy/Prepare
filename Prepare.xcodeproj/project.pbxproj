@@ -16,12 +16,32 @@
 		FB12C66C2BFD951200B6E171 /* PrepareUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C66B2BFD951200B6E171 /* PrepareUITestsLaunchTests.swift */; };
 		FB12C6722BFD951200B6E171 /* Prepare Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = FB12C6712BFD951200B6E171 /* Prepare Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		FB12C6772BFD951200B6E171 /* PrepareApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6762BFD951200B6E171 /* PrepareApp.swift */; };
-		FB12C6792BFD951200B6E171 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6782BFD951200B6E171 /* ContentView.swift */; };
 		FB12C67B2BFD951300B6E171 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB12C67A2BFD951300B6E171 /* Assets.xcassets */; };
 		FB12C67E2BFD951300B6E171 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB12C67D2BFD951300B6E171 /* Preview Assets.xcassets */; };
 		FB12C6882BFD951300B6E171 /* Prepare_Watch_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6872BFD951300B6E171 /* Prepare_Watch_AppTests.swift */; };
 		FB12C6922BFD951300B6E171 /* Prepare_Watch_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6912BFD951300B6E171 /* Prepare_Watch_AppUITests.swift */; };
 		FB12C6942BFD951300B6E171 /* Prepare_Watch_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6932BFD951300B6E171 /* Prepare_Watch_AppUITestsLaunchTests.swift */; };
+		FB12C6AF2BFD96CB00B6E171 /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6AE2BFD96CB00B6E171 /* StartView.swift */; };
+		FB12C6B22BFDB5C200B6E171 /* WorkoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6B12BFDB5C200B6E171 /* WorkoutView.swift */; };
+		FB12C6B52BFDB79200B6E171 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = FB12C6B42BFDB79200B6E171 /* SDWebImageSwiftUI */; };
+		FB12C6B82BFDBB9E00B6E171 /* AnimatedImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6B72BFDBB9E00B6E171 /* AnimatedImage.swift */; };
+		FB12C6BB2BFDBE5400B6E171 /* WorkoutModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6BA2BFDBE5400B6E171 /* WorkoutModel.swift */; };
+		FB12C6BE2BFDBF3300B6E171 /* InfoWorkoutComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6BD2BFDBF3300B6E171 /* InfoWorkoutComponent.swift */; };
+		FB12C6C02BFDCA2F00B6E171 /* CustomButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6BF2BFDCA2F00B6E171 /* CustomButtonStyle.swift */; };
+		FB12C6C42BFDD06B00B6E171 /* SDWebImageWebPCoder in Frameworks */ = {isa = PBXBuildFile; productRef = FB12C6C32BFDD06B00B6E171 /* SDWebImageWebPCoder */; };
+		FB12C6C72BFDD49600B6E171 /* workout-push-up.webp in Resources */ = {isa = PBXBuildFile; fileRef = FB12C6C62BFDD49600B6E171 /* workout-push-up.webp */; };
+		FB12C6C92BFDD7AE00B6E171 /* Anton-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB12C6C82BFDD7AE00B6E171 /* Anton-Regular.ttf */; };
+		FB12C6CC2BFDE1A400B6E171 /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6CB2BFDE1A400B6E171 /* Router.swift */; };
+		FB12C6CF2BFDE22000B6E171 /* DescriptionWorkoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6CE2BFDE22000B6E171 /* DescriptionWorkoutView.swift */; };
+		FB12C6D22BFDE89900B6E171 /* DateGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6D12BFDE89900B6E171 /* DateGameView.swift */; };
+		FB12C6D52BFDEE1100B6E171 /* WorkoutTypeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6D42BFDEE1100B6E171 /* WorkoutTypeView.swift */; };
+		FB12C6D72BFDEE3400B6E171 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB12C6D62BFDEE3400B6E171 /* MainView.swift */; };
+		FB78D5FA2C01A24100AAB89E /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB78D5F92C01A24100AAB89E /* Color.swift */; };
+		FB78D5FC2C01A31300AAB89E /* WorkoutTypeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB78D5FB2C01A31300AAB89E /* WorkoutTypeModel.swift */; };
+		FB78D5FF2C01CCC400AAB89E /* ListTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB78D5FE2C01CCC400AAB89E /* ListTabView.swift */; };
+		FB78D6012C01CCD000AAB89E /* ControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB78D6002C01CCD000AAB89E /* ControlsView.swift */; };
+		FB78D6032C0218B500AAB89E /* DailyActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB78D6022C0218B500AAB89E /* DailyActivityView.swift */; };
+		FB78D6052C02331000AAB89E /* push-up-w.png in Resources */ = {isa = PBXBuildFile; fileRef = FB78D6042C02331000AAB89E /* push-up-w.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,7 +109,6 @@
 		FB12C66B2BFD951200B6E171 /* PrepareUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrepareUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		FB12C6712BFD951200B6E171 /* Prepare Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Prepare Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB12C6762BFD951200B6E171 /* PrepareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrepareApp.swift; sourceTree = "<group>"; };
-		FB12C6782BFD951200B6E171 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FB12C67A2BFD951300B6E171 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB12C67D2BFD951300B6E171 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FB12C6832BFD951300B6E171 /* Prepare Watch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Prepare Watch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -97,6 +116,26 @@
 		FB12C68D2BFD951300B6E171 /* Prepare Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Prepare Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB12C6912BFD951300B6E171 /* Prepare_Watch_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prepare_Watch_AppUITests.swift; sourceTree = "<group>"; };
 		FB12C6932BFD951300B6E171 /* Prepare_Watch_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prepare_Watch_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FB12C6AE2BFD96CB00B6E171 /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
+		FB12C6B12BFDB5C200B6E171 /* WorkoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutView.swift; sourceTree = "<group>"; };
+		FB12C6B72BFDBB9E00B6E171 /* AnimatedImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedImage.swift; sourceTree = "<group>"; };
+		FB12C6BA2BFDBE5400B6E171 /* WorkoutModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutModel.swift; sourceTree = "<group>"; };
+		FB12C6BD2BFDBF3300B6E171 /* InfoWorkoutComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoWorkoutComponent.swift; sourceTree = "<group>"; };
+		FB12C6BF2BFDCA2F00B6E171 /* CustomButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonStyle.swift; sourceTree = "<group>"; };
+		FB12C6C62BFDD49600B6E171 /* workout-push-up.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "workout-push-up.webp"; sourceTree = "<group>"; };
+		FB12C6C82BFDD7AE00B6E171 /* Anton-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Anton-Regular.ttf"; sourceTree = "<group>"; };
+		FB12C6CA2BFDD83700B6E171 /* Prepare-Watch-App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Prepare-Watch-App-Info.plist"; sourceTree = SOURCE_ROOT; };
+		FB12C6CB2BFDE1A400B6E171 /* Router.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
+		FB12C6CE2BFDE22000B6E171 /* DescriptionWorkoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DescriptionWorkoutView.swift; sourceTree = "<group>"; };
+		FB12C6D12BFDE89900B6E171 /* DateGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateGameView.swift; sourceTree = "<group>"; };
+		FB12C6D42BFDEE1100B6E171 /* WorkoutTypeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutTypeView.swift; sourceTree = "<group>"; };
+		FB12C6D62BFDEE3400B6E171 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		FB78D5F92C01A24100AAB89E /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		FB78D5FB2C01A31300AAB89E /* WorkoutTypeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutTypeModel.swift; sourceTree = "<group>"; };
+		FB78D5FE2C01CCC400AAB89E /* ListTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTabView.swift; sourceTree = "<group>"; };
+		FB78D6002C01CCD000AAB89E /* ControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlsView.swift; sourceTree = "<group>"; };
+		FB78D6022C0218B500AAB89E /* DailyActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyActivityView.swift; sourceTree = "<group>"; };
+		FB78D6042C02331000AAB89E /* push-up-w.png */ = {isa = PBXFileReference; explicitFileType = image.png; path = "push-up-w.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +164,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB12C6C42BFDD06B00B6E171 /* SDWebImageWebPCoder in Frameworks */,
+				FB12C6B52BFDB79200B6E171 /* SDWebImageSwiftUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -155,6 +196,7 @@
 				FB12C6862BFD951300B6E171 /* Prepare Watch AppTests */,
 				FB12C6902BFD951300B6E171 /* Prepare Watch AppUITests */,
 				FB12C64C2BFD951100B6E171 /* Products */,
+				FB12C6C22BFDD06B00B6E171 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -210,10 +252,15 @@
 		FB12C6752BFD951200B6E171 /* Prepare Watch App */ = {
 			isa = PBXGroup;
 			children = (
-				FB12C6762BFD951200B6E171 /* PrepareApp.swift */,
-				FB12C6782BFD951200B6E171 /* ContentView.swift */,
+				FB12C6AB2BFD955000B6E171 /* App */,
 				FB12C67A2BFD951300B6E171 /* Assets.xcassets */,
+				FB12C6D82BFDEE3E00B6E171 /* Data */,
+				FB12C6B92BFDBE4000B6E171 /* Model */,
+				FB12C6CA2BFDD83700B6E171 /* Prepare-Watch-App-Info.plist */,
 				FB12C67C2BFD951300B6E171 /* Preview Content */,
+				FB12C6D92BFDEE4300B6E171 /* Repository */,
+				FB12C6C52BFDD45900B6E171 /* Resource */,
+				FB12C6AA2BFD954800B6E171 /* View */,
 			);
 			path = "Prepare Watch App";
 			sourceTree = "<group>";
@@ -241,6 +288,163 @@
 				FB12C6932BFD951300B6E171 /* Prepare_Watch_AppUITestsLaunchTests.swift */,
 			);
 			path = "Prepare Watch AppUITests";
+			sourceTree = "<group>";
+		};
+		FB12C6AA2BFD954800B6E171 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FB12C6B62BFDBB8C00B6E171 /* Component */,
+				FB12C6D02BFDE88B00B6E171 /* Date Game */,
+				FB12C6CD2BFDE1FE00B6E171 /* Description Workout */,
+				FB12C6AD2BFD96A500B6E171 /* Main */,
+				FB12C6AC2BFD969E00B6E171 /* Start */,
+				FB12C6B02BFDB57A00B6E171 /* Workout */,
+				FB12C6D32BFDEE0100B6E171 /* Workout Type */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FB12C6AB2BFD955000B6E171 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				FB78D5F82C01A22D00AAB89E /* Util */,
+				FB12C6DA2BFE23D600B6E171 /* Router */,
+				FB12C6762BFD951200B6E171 /* PrepareApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		FB12C6AC2BFD969E00B6E171 /* Start */ = {
+			isa = PBXGroup;
+			children = (
+				FB12C6AE2BFD96CB00B6E171 /* StartView.swift */,
+			);
+			path = Start;
+			sourceTree = "<group>";
+		};
+		FB12C6AD2BFD96A500B6E171 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				FB78D5FD2C01AD1700AAB89E /* Tab */,
+				FB12C6D62BFDEE3400B6E171 /* MainView.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		FB12C6B02BFDB57A00B6E171 /* Workout */ = {
+			isa = PBXGroup;
+			children = (
+				FB12C6BC2BFDBF1D00B6E171 /* Component */,
+				FB12C6B12BFDB5C200B6E171 /* WorkoutView.swift */,
+			);
+			path = Workout;
+			sourceTree = "<group>";
+		};
+		FB12C6B62BFDBB8C00B6E171 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				FB12C6BF2BFDCA2F00B6E171 /* CustomButtonStyle.swift */,
+				FB12C6B72BFDBB9E00B6E171 /* AnimatedImage.swift */,
+			);
+			path = Component;
+			sourceTree = "<group>";
+		};
+		FB12C6B92BFDBE4000B6E171 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FB12C6BA2BFDBE5400B6E171 /* WorkoutModel.swift */,
+				FB78D5FB2C01A31300AAB89E /* WorkoutTypeModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FB12C6BC2BFDBF1D00B6E171 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				FB12C6BD2BFDBF3300B6E171 /* InfoWorkoutComponent.swift */,
+			);
+			path = Component;
+			sourceTree = "<group>";
+		};
+		FB12C6C22BFDD06B00B6E171 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FB12C6C52BFDD45900B6E171 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				FB78D6042C02331000AAB89E /* push-up-w.png */,
+				FB12C6C82BFDD7AE00B6E171 /* Anton-Regular.ttf */,
+				FB12C6C62BFDD49600B6E171 /* workout-push-up.webp */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		FB12C6CD2BFDE1FE00B6E171 /* Description Workout */ = {
+			isa = PBXGroup;
+			children = (
+				FB12C6CE2BFDE22000B6E171 /* DescriptionWorkoutView.swift */,
+			);
+			path = "Description Workout";
+			sourceTree = "<group>";
+		};
+		FB12C6D02BFDE88B00B6E171 /* Date Game */ = {
+			isa = PBXGroup;
+			children = (
+				FB12C6D12BFDE89900B6E171 /* DateGameView.swift */,
+			);
+			path = "Date Game";
+			sourceTree = "<group>";
+		};
+		FB12C6D32BFDEE0100B6E171 /* Workout Type */ = {
+			isa = PBXGroup;
+			children = (
+				FB12C6D42BFDEE1100B6E171 /* WorkoutTypeView.swift */,
+			);
+			path = "Workout Type";
+			sourceTree = "<group>";
+		};
+		FB12C6D82BFDEE3E00B6E171 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		FB12C6D92BFDEE4300B6E171 /* Repository */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Repository;
+			sourceTree = "<group>";
+		};
+		FB12C6DA2BFE23D600B6E171 /* Router */ = {
+			isa = PBXGroup;
+			children = (
+				FB12C6CB2BFDE1A400B6E171 /* Router.swift */,
+			);
+			path = Router;
+			sourceTree = "<group>";
+		};
+		FB78D5F82C01A22D00AAB89E /* Util */ = {
+			isa = PBXGroup;
+			children = (
+				FB78D5F92C01A24100AAB89E /* Color.swift */,
+			);
+			path = Util;
+			sourceTree = "<group>";
+		};
+		FB78D5FD2C01AD1700AAB89E /* Tab */ = {
+			isa = PBXGroup;
+			children = (
+				FB78D5FE2C01CCC400AAB89E /* ListTabView.swift */,
+				FB78D6002C01CCD000AAB89E /* ControlsView.swift */,
+				FB78D6022C0218B500AAB89E /* DailyActivityView.swift */,
+			);
+			path = Tab;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -314,6 +518,10 @@
 			dependencies = (
 			);
 			name = "Prepare Watch App";
+			packageProductDependencies = (
+				FB12C6B42BFDB79200B6E171 /* SDWebImageSwiftUI */,
+				FB12C6C32BFDD06B00B6E171 /* SDWebImageWebPCoder */,
+			);
 			productName = "Prepare Watch App";
 			productReference = FB12C6712BFD951200B6E171 /* Prepare Watch App.app */;
 			productType = "com.apple.product-type.application";
@@ -397,6 +605,10 @@
 				Base,
 			);
 			mainGroup = FB12C6422BFD951000B6E171;
+			packageReferences = (
+				FB12C6B32BFDB79200B6E171 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+				FB12C6C12BFDD01F00B6E171 /* XCRemoteSwiftPackageReference "SDWebImageWebPCoder" */,
+			);
 			productRefGroup = FB12C64C2BFD951100B6E171 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -439,8 +651,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB78D6052C02331000AAB89E /* push-up-w.png in Resources */,
+				FB12C6C92BFDD7AE00B6E171 /* Anton-Regular.ttf in Resources */,
 				FB12C67E2BFD951300B6E171 /* Preview Assets.xcassets in Resources */,
 				FB12C67B2BFD951300B6E171 /* Assets.xcassets in Resources */,
+				FB12C6C72BFDD49600B6E171 /* workout-push-up.webp in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -491,8 +706,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB12C6792BFD951200B6E171 /* ContentView.swift in Sources */,
+				FB78D5FF2C01CCC400AAB89E /* ListTabView.swift in Sources */,
+				FB12C6CC2BFDE1A400B6E171 /* Router.swift in Sources */,
+				FB12C6D72BFDEE3400B6E171 /* MainView.swift in Sources */,
+				FB12C6AF2BFD96CB00B6E171 /* StartView.swift in Sources */,
+				FB12C6B22BFDB5C200B6E171 /* WorkoutView.swift in Sources */,
+				FB78D5FA2C01A24100AAB89E /* Color.swift in Sources */,
+				FB12C6BE2BFDBF3300B6E171 /* InfoWorkoutComponent.swift in Sources */,
+				FB12C6B82BFDBB9E00B6E171 /* AnimatedImage.swift in Sources */,
 				FB12C6772BFD951200B6E171 /* PrepareApp.swift in Sources */,
+				FB12C6D52BFDEE1100B6E171 /* WorkoutTypeView.swift in Sources */,
+				FB78D6032C0218B500AAB89E /* DailyActivityView.swift in Sources */,
+				FB78D5FC2C01A31300AAB89E /* WorkoutTypeModel.swift in Sources */,
+				FB12C6D22BFDE89900B6E171 /* DateGameView.swift in Sources */,
+				FB78D6012C01CCD000AAB89E /* ControlsView.swift in Sources */,
+				FB12C6C02BFDCA2F00B6E171 /* CustomButtonStyle.swift in Sources */,
+				FB12C6BB2BFDBE5400B6E171 /* WorkoutModel.swift in Sources */,
+				FB12C6CF2BFDE22000B6E171 /* DescriptionWorkoutView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -669,9 +899,11 @@
 				DEVELOPMENT_TEAM = 68FP6TZ275;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Prepare-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = Prepare;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = godofsleepy.Prepare;
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -699,9 +931,11 @@
 				DEVELOPMENT_TEAM = 68FP6TZ275;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Prepare-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = Prepare;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = godofsleepy.Prepare;
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1021,6 +1255,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		FB12C6B32BFDB79200B6E171 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.0.4;
+			};
+		};
+		FB12C6C12BFDD01F00B6E171 /* XCRemoteSwiftPackageReference "SDWebImageWebPCoder" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageWebPCoder.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.14.6;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		FB12C6B42BFDB79200B6E171 /* SDWebImageSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FB12C6B32BFDB79200B6E171 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */;
+			productName = SDWebImageSwiftUI;
+		};
+		FB12C6C32BFDD06B00B6E171 /* SDWebImageWebPCoder */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FB12C6C12BFDD01F00B6E171 /* XCRemoteSwiftPackageReference "SDWebImageWebPCoder" */;
+			productName = SDWebImageWebPCoder;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = FB12C6432BFD951000B6E171 /* Project object */;
 }
